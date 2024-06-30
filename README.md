@@ -1,1 +1,1 @@
-This repository consists of all the practice projects I tried using HTML, CSS and Js.
+This repository consists of all the practice projects I made using HTML, CSS and Js.
