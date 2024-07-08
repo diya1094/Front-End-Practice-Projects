@@ -1,1 +1,6 @@
-This repository consists of all the practice projects I made using HTML, CSS and Js.
+This repository contains all practice website using HTML, CSS and Js that I made while learning JS.
+
+Practice Project 1: To-do List
+
+Practice Project 2: Quiz App
+
