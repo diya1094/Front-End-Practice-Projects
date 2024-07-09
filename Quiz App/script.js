@@ -2,7 +2,7 @@ const questions = [
     {
         question: "What is the capital of India?",
         answers: [
-            {text:"Dehli", correct: true},
+            {text:"Delhi", correct: true},
             {text:"Ahmedabad", correct: false},
             {text:"Bangalore", correct: false},
             {text:"Mumbai", correct: false},
