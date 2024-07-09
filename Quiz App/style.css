@@ -1,14 +1,15 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     box-sizing: border-box;
 }
 
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(150deg, #4e085f, #774936) ;
+    background: #4e085f;
+    /* background: linear-gradient(150deg, #774936, #4e085f) ; */
     padding: 40px;
 }
 
@@ -23,7 +24,7 @@
 
 .app h1{
     font-size: 25px;
-    color: #774936;
+    color: #42085f;
     border-bottom: 1px solid black;
     padding-bottom: 20px;
 }
@@ -35,6 +36,7 @@
 .quiz h2{
     font-size: 20px;
     font-weight: 600;
+    color: #42085f;
 }
 
 .btn{
