@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(150deg , #774936, #4e085f) ;
+    padding: 40px;
+}
+
+.quizapp{
+    width: 100%;
+    max-width: 600px;
+    background-color: white;
+    padding: 25px 30px 40px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.quizapp h2{
+    color: #774936;
+}
+
+button{
+    background-color: #cd4911;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 30px;
+}
